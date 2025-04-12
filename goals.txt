@@ -1,0 +1,5 @@
+Goals:
+What features of a watch have a stronger association on price?
+Analyze watch prices based on their features to determine which features affect prices and by how much. 
+What brands tend to sell the most expensive watches? What brands tend to sell the more affordable watches? 
+Do these prices seem to relate to the features of the watch, or does the brand's name seem to play a role?
